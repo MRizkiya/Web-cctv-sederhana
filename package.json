@@ -1,0 +1,12 @@
+{
+  "name": "web-sederhana-cctv",
+  "version": "1.0.0",
+  "description": "Sistem Monitoring CCTV ODOL - Banjarbaru",
+  "scripts": {
+    "dev":            "cd frontend && npm run dev",
+    "dev:frontend":   "cd frontend && npm run dev",
+    "dev:backend":    "cd backend && node index.js",
+    "dev:python":     "cd backend-python && venv\\Scripts\\python.exe app.py"
+  },
+  "keywords": []
+}
